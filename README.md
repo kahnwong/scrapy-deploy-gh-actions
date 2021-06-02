@@ -23,6 +23,7 @@ requirements:
 stack: scrapy:${YOUR_SCRAPY_VERSION_IN_PIPFILE}
 apikey: null
 ```
+4. Add `APIKEY` as github repo secrets.
 
 See [here](https://github.com/scrapinghub/scrapinghub-stack-scrapy/releases) for list of available versions.
 
