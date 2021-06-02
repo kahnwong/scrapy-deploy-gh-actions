@@ -1,0 +1,7 @@
+project: 462620
+
+requirements:
+  file: requirements.txt
+
+stack: scrapy:2.5
+apikey: null
