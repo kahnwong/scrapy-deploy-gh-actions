@@ -37,7 +37,7 @@ shub==2.13.0
 six==1.16.0
 toml==0.10.2
 tqdm==4.55.1
-Twisted==21.2.0
+Twisted==22.10.0
 urllib3==1.26.5
 w3lib==1.22.0
 websocket-client==1.0.1
